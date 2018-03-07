@@ -1,0 +1,9 @@
+The URL of the comic character on the Marvel Wikia
+Name/Alias 	The full name or alias of the character
+Appearances 	The number of comic books that character appeared in as of April 30
+Current? 	Is the member currently active on an avengers affiliated team?
+Gender 	The recorded gender of the character
+Probationary 	Sometimes the character was given probationary status as an Avenger, this is the date that happened
+Full/Reserve 	The month and year the character was introduced as a full or reserve member of the Avnegers
+Year 	The year the character was introduced as a full or reserve member of the Avengers
+Years since joining 	2015 minus the year
